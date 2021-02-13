@@ -1,11 +1,17 @@
-# portfolio-viz
-This is my portfolio for the Telling Stories with Data class at CMU!
+# Murlidhar Sharma
+I am an IT Engineer, currently studying in the Master of Information Systems Management Global program at CMU with a keen focus in Data Analytics and Business Intelligence. This is my portfolio created for the Telling Stories with Data class at CMU.
 
 # About me
-I am an enthusiastic student with experience of working in Data Analyst and Software Developer roles as well as leadership roles in student organisations.
+I have worked as a Data Analyst intern in Adelaide and Software Developer intern in a couple of internships in my hometown Mumbai.
+I love solving complex problems, playing Chess, watching Football, Cricket, and movies. 
 
-# What I hope to learn
-Techniques and tools which help me create engaging data visualizations and improve my impact as a Data Analyst.
+# Vizualizations
 
-# Portfolio
+## Analysis of COVID-19 Cases in King County
+<div class="flourish-embed flourish-chart" data-src="visualisation/5255858"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 Lots of cool vizuals coming here soon!
+
+
+# Contact
+I'd love to hear your thoughts about this portfolio. Feel freet to reach out to me at [Link]murlisharma@cmu.edu
