@@ -15,4 +15,4 @@ Lots of cool vizuals coming here soon!
 
 
 # Contact
-I'd love to hear your thoughts about this portfolio. Feel freet to reach out to me through [murlisharma@cmu.edu]Email
+I'd love to hear your thoughts about this portfolio. Feel freet to reach out to me through [e-mail](murlisharma@cmu.edu)
