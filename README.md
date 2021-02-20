@@ -10,15 +10,18 @@ I aspire to become a Data Analyst and visualization of data is an amazing skill 
 
 # Vizualizations
 
-## Rise in popularity of Python over R in 2017
+## A simple graph from 3 perspectives
+Change in preferences of Data Scientists between 2016 and 2017
+<iframe title="Shifting trends among Data Scientists" aria-label="Arrow Plot" id="datawrapper-chart-A1Eih" src="https://datawrapper.dwcdn.net/A1Eih/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="227"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
+Rise in popularity of Python over R in 2017
 <iframe title="Python becoming more popular among Data Scientists" aria-label="Split Bars" id="datawrapper-chart-4guMZ" src="https://datawrapper.dwcdn.net/4guMZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="181"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+Decline in popularity of R in 2016
 <iframe title="Decline in popularity of R among Data Scientists" aria-label="chart" id="datawrapper-chart-9C3FQ" src="https://datawrapper.dwcdn.net/9C3FQ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-
-
 
 ## Analysis of COVID-19 Cases in King County
 
