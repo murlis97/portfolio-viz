@@ -15,6 +15,11 @@ I aspire to become a Data Analyst and visualization of data is an amazing skill 
 <iframe title="Python becoming more popular among Data Scientists" aria-label="Split Bars" id="datawrapper-chart-4guMZ" src="https://datawrapper.dwcdn.net/4guMZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="181"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<iframe title="Decline in popularity of R among Data Scientists" aria-label="chart" id="datawrapper-chart-9C3FQ" src="https://datawrapper.dwcdn.net/9C3FQ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+
+
 ## Analysis of COVID-19 Cases in King County
 
 <iframe src='https://flo.uri.sh/visualisation/5255858/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/5255858/?utm_source=embed&utm_campaign=visualisation/5255858' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
