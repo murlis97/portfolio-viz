@@ -23,7 +23,7 @@ Change in preferences of Data Scientists between 2016 and 2017
 </script>
 
 Rise in popularity of Python over R in 2017
-<iframe title="Python becoming more popular among Data Scientists" aria-label="Split Bars" id="datawrapper-chart-4guMZ" src="https://datawrapper.dwcdn.net/4guMZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="181"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Python becoming more popular among Data Scientists" aria-label="Split Bars" id="datawrapper-chart-4guMZ" src="https://datawrapper.dwcdn.net/4guMZ/1/" scrolling="no" frameborder="0" style="width: 100%; height:600px; min-width: 100% !important; border: none;" height="181"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 Decline in popularity of R in 2016
