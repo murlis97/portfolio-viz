@@ -10,6 +10,13 @@ I aspire to become a Data Analyst and visualization of data is an amazing skill 
 
 # Vizualizations
 
+## Percentage of Higher Secondary Schools with Computers in each State in India 
+
+The following Tableau Visualization is an improved version of the [visualization from Data.gov.in website](https://data.gov.in/major-indicator/percentage-schools-computers)
+
+<script type='text/javascript' src='https://prod-useast-b.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1920px; height: 955px;'><object class='tableauViz' width='1920' height='955' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-b.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;murlis' /><param name='name' value='SecondarySchoolswithComputers&#47;PercentageofHigherSecondarySchoolswithComputers&#47;murlisharma@cmu.edu&#47;73a77d23-db5f-433b-9deb-7d19d580c4fe' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
+
+
 ## A simple graph from 3 perspectives
 Change in preferences of Data Scientists between 2016 and 2017
 <iframe title="Shifting trends among Data Scientists" aria-label="Arrow Plot" id="datawrapper-chart-A1Eih" src="https://datawrapper.dwcdn.net/A1Eih/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="227"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
