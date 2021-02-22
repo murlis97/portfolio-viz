@@ -16,7 +16,10 @@ ______
 
 The following Tableau Visualization is an improved version of the [visualization from Data.gov.in website](https://data.gov.in/major-indicator/percentage-schools-computers). This visualization had some clear and obvious flaws that affected the final message that was being conveyed. I could immediately imagine a different version of the chart which improved the final message and aesthetic appeal of the graph. 
 
-********** Process Followed *************
+__Process Followed__
+
+---
+
 I started with the good charts matrix to understand areas of improvement for the graph. Contextual awareness needed only a few improvements for this viz as its target audience was a Government Department which studied this data thoroughly. The design execution for this viz had many flaws. I noted down the flaws and the [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) allowed me to bucket these flaws and understand more areas of improvement. The truthfulness of the data was something I didn't question earlier, but knowing that in some regions the data source is questionable so it is difficult to take the data on its face value. It also highlighted that the data needs to be analysed at a more granular level to create actionable outcomes. Analysing the intuitiveness of the data also pointed out that the states with lower percentage of computers need to be highlighted instead of the states with a high percentage of computers. I noted down these changes and created the following [wireframe](https://drive.google.com/file/d/13cbaSyjnx-4aGqIaIz3Te6JrbRPa4WuL/view?usp=sharing) for the proposed graph. 
 
 I shared the visual with my roommates asking them the following questions: 
