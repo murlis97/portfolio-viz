@@ -1,7 +1,5 @@
-# Murlidhar Sharma
-I am an IT Engineer, currently studying in the Master of Information Systems Management Global program at CMU with a keen focus in Data Analytics and Business Intelligence. This is my portfolio created for the Telling Stories with Data class at CMU.
-
 ## About me
+I am an IT Engineer, currently studying in the Master of Information Systems Management Global program at CMU with a keen focus in Data Analytics and Business Intelligence. This is my portfolio created for the Telling Stories with Data class at CMU.
 I have worked as a Data Analyst intern in Adelaide and Software Developer intern in a couple of internships in my hometown Mumbai.
 I love solving complex problems, playing Chess, watching Football, Cricket, and movies. 
 
