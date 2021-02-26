@@ -2,7 +2,9 @@
 I am an IT Engineer, currently studying in the Master of Information Systems Management Global program at CMU with a keen focus in Data Analytics and Business Intelligence. This is my portfolio created for the Telling Stories with Data class at CMU.
 I have worked as a Data Analyst intern in Adelaide and Software Developer intern in a couple of internships in my hometown Mumbai.
 I love solving complex problems, playing Chess, watching Football, Cricket, and movies. 
+
 _______
+
 
 # Vizualizations
 
@@ -30,7 +32,7 @@ The following Tableau Visualization is an improved version of the [visualization
 </div>
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1613954458570');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='927px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='927px';} else { vizElement.style.width='100%';vizElement.style.height='877px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
----
+-----
 
 ## Analysis of COVID-19 Cases in King County
 
@@ -41,6 +43,7 @@ The chart has too many arrows and size proportions for a user to track. It is al
 
 ### Change in preferences of Data Scientists between 2016 and 2017
 _____
+
 <iframe title="Shifting trends among Data Scientists" aria-label="Arrow Plot" id="datawrapper-chart-A1Eih" src="https://datawrapper.dwcdn.net/A1Eih/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="227"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
@@ -58,11 +61,13 @@ _____
 ## Government Debt Data Viz
 ### [OECD Data Visualization - Assignment](/viz2.md)
 Visualizing government debt assignment from week 2 of the Telling Stories with Data course.
-_____
+
+_______
 
 Lots more cool vizuals coming here soon!
 
 __________
+
 # What I hope to learn
 I aspire to become a Data Analyst and visualization of data is an amazing skill that I intend to add to my arsenal. Through this course I hope to learn new tools and concepts which allow me to improve as a Data story teller. I also hope to get hands-on practice of creating complex visuals conveying elaborate constructs in a minimalistic fashion. I plan to be ambitious throughout this course using my knowledge of programming and data visualization. I will try to use financial data during this course getting a good exposure to business analytics domains and an understanding of how to present data stories to C-level executives. It will allow me to add a great portfolio to my resume which would eventually help me get a good job as a Data Analyst. 
 
