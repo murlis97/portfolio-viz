@@ -150,6 +150,18 @@ This effect needs to be studied in data using data from various sources like:
 ![Unit chart depicting natural and unnatural growth of stock prices](https://github.com/murlis97/portfolio-viz/blob/main/images/Final%20Project%20Sketch_2.jpg "Unit chart depicting natural and unnatural growth of stock prices") -
 (https://drive.google.com/file/d/17s34xEJcU4UeIMdnNrZI-tcrm10lyymP/view?usp=sharing)
 
+
+### Medium
+
+A shorthand story would be the perfect way to cover the following points from the outline using visualizations: 
+* Background
+* Regular trader's perspective
+* Comparison of natural and unnatural rise in stock price
+* Effect of stock market bubbles
+* Conclusion
+
+The visualizations from the sketches above would cover many of the aspects of the story. Additional visualizations will be developed while studying the stocks data from the past two months, made available through Merchent Online and Finance APIs. Increased variations in stock prices would indicate that the chaos in stock market has increased due the activities of the Reddit forum. The expected losses can be charted to assess the morality of the situation. 
+
 _______
 
 ## Conclusion
