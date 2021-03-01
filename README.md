@@ -5,8 +5,28 @@ I love solving complex problems, playing Chess, watching Football, Cricket, and 
 
 _______
 
+# Cool Vizualizations
 
-# Vizualizations
+## Three versions of the same graph
+The chart has too many arrows and size proportions for a user to track. It is also not intuitive that the arrows represent the percentage of populations moving from one language to another. The sizes of the arrows varying to a large degree also makes the graph more difficult to interpret. The same message can be conveyed much better by the following three versions of the graph. 
+
+### Change in preferences of Data Scientists between 2016 and 2017
+_____
+
+<iframe title="Shifting trends among Data Scientists" aria-label="Arrow Plot" id="datawrapper-chart-A1Eih" src="https://datawrapper.dwcdn.net/A1Eih/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="227"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+### Rise in popularity of Python over R in 2017
+_____
+<iframe title="Python becoming more popular among Data Scientists" aria-label="Split Bars" id="datawrapper-chart-4guMZ" src="https://datawrapper.dwcdn.net/4guMZ/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="205"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+### Decline in popularity of R in 2016
+_____
+<iframe title="Decline in popularity of R among Data Scientists" aria-label="chart" id="datawrapper-chart-9C3FQ" src="https://datawrapper.dwcdn.net/9C3FQ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+_____
+
 
 ## Percentage of Higher Secondary Schools with Computers in each State in India
 
@@ -32,45 +52,46 @@ The following Tableau Visualization is an improved version of the [visualization
 </div>
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1613954458570');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='927px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='927px';} else { vizElement.style.width='100%';vizElement.style.height='877px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
------
+__________
 
-## Analysis of COVID-19 Cases in King County
+## Two visualizations from the Debt Data of OECD Countries
 
-<iframe src='https://flo.uri.sh/visualisation/5255858/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/5255858/?utm_source=embed&utm_campaign=visualisation/5255858' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+### Debt to GDP ratio for OECD Countries
 
-## Three versions of the same graph
-The chart has too many arrows and size proportions for a user to track. It is also not intuitive that the arrows represent the percentage of populations moving from one language to another. The sizes of the arrows varying to a large degree also makes the graph more difficult to interpret. The same message can be conveyed much better by the following three versions of the graph. 
+The following line chart shows the variations in Debt-to-GDP ratio for the OECD nations mentioned above. It highlights how many of the major world economies have been burdened by debt over the years with USA, France, Japan, Italy all amassing huge debts. 
 
-### Change in preferences of Data Scientists between 2016 and 2017
-_____
+The line chart captures the essence of the data spanning over 25 years, highlight how each coutries economy has improve or degraded during this period and the rate at which the economy has changed. The interactive aspect of the graph further improves the engagement of the graph and improves the design execution for the graph.
 
-<iframe title="Shifting trends among Data Scientists" aria-label="Arrow Plot" id="datawrapper-chart-A1Eih" src="https://datawrapper.dwcdn.net/A1Eih/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="227"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
+<iframe src='https://flo.uri.sh/visualisation/5298588/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:800px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/5298588/?utm_source=embed&utm_campaign=visualisation/5298588' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-### Rise in popularity of Python over R in 2017
-_____
-<iframe title="Python becoming more popular among Data Scientists" aria-label="Split Bars" id="datawrapper-chart-4guMZ" src="https://datawrapper.dwcdn.net/4guMZ/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="205"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
+________
 
-### Decline in popularity of R in 2016
-_____
-<iframe title="Decline in popularity of R among Data Scientists" aria-label="chart" id="datawrapper-chart-9C3FQ" src="https://datawrapper.dwcdn.net/9C3FQ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
-_____
+### Debt to GDP ratio variations over the years
 
-## Government Debt Data Viz
-### [OECD Data Visualization - Assignment](/viz2.md)
-Visualizing government debt assignment from week 2 of the Telling Stories with Data course.
+The following sunburst chart highlights variations in Debt/GDP ratio from 1995 to 2019. It shows the countries with the biggest amount of debt relative to their GDP in each year. It is helpful in tracking which countries improve year over year and repay their debt while improving their GDP. The economic turmoil in Greece is highlighted by the country's standing in 2019. Whereas Japan has been consistently higher than any other country during the period between 1999-2018 on the sunburst chart. 
 
-_______
+The sunburst chart is an interesting improvement over the conventional pie charts. Here the overwhelming effect of too many colours is subdued by the use of rings instead of entire circles. The chart is great example of incorporating rainbow colours while maintaing the aesthic appeal a visualization. Here it serves as a good alternative to ranking tables which seem plain and simple compared to the graphical sunburst chart. The colours used are colorblind-friendly according to [Adobe Color](https://color.adobe.com/create/color-accessibility)
+
+<iframe src='https://flo.uri.sh/visualisation/5298915/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/5298915/?utm_source=embed&utm_campaign=visualisation/5298915' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+__________
 
 Lots more cool vizuals coming here soon!
 
 __________
 
-# What I hope to learn
+
+## TSWD Submissions
+### [Final Project Submission](/final_project_mjsharma.md)
+
+### [OECD Data Visualization - Assignment](/viz2.md)
+
+_______
+
+## What I hope to learn
 I aspire to become a Data Analyst and visualization of data is an amazing skill that I intend to add to my arsenal. Through this course I hope to learn new tools and concepts which allow me to improve as a Data story teller. I also hope to get hands-on practice of creating complex visuals conveying elaborate constructs in a minimalistic fashion. I plan to be ambitious throughout this course using my knowledge of programming and data visualization. I will try to use financial data during this course getting a good exposure to business analytics domains and an understanding of how to present data stories to C-level executives. It will allow me to add a great portfolio to my resume which would eventually help me get a good job as a Data Analyst. 
 
 _________
+
 # Contact
 I'd love to hear your thoughts about this portfolio. Feel freet to reach out to me through [e-mail](murlisharma@cmu.edu)
