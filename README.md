@@ -8,7 +8,6 @@ _______
 # Cool Vizualizations
 
 ## Three versions of the same graph
-The chart has too many arrows and size proportions for a user to track. It is also not intuitive that the arrows represent the percentage of populations moving from one language to another. The sizes of the arrows varying to a large degree also makes the graph more difficult to interpret. The same message can be conveyed much better by the following three versions of the graph. 
 
 ### Change in preferences of Data Scientists between 2016 and 2017
 _____
