@@ -142,13 +142,13 @@ This effect needs to be studied in data using data from various sources like:
 
 ### Sketches depecting possible visualizations 
 
-![Losses for Hedge Funds](https://drive.google.com/file/d/17s34xEJcU4UeIMdnNrZI-tcrm10lyymP/view?usp=sharing "Losses for Hedge Funds")
+![Losses for Hedge Funds](https://github.com/murlis97/portfolio-viz/blob/main/images/Final%20Project%20Sketch_4.jpg "Losses for Hedge Funds") - 
 (https://drive.google.com/file/d/17s34xEJcU4UeIMdnNrZI-tcrm10lyymP/view?usp=sharing)
 
-![Losses for Regular Traders](https://drive.google.com/file/d/17kyE4Lw1pT4QkMNA4sH4rPDP4FnG24Sf/view?usp=sharing "Losses for Regular Traders") - (https://drive.google.com/file/d/17kyE4Lw1pT4QkMNA4sH4rPDP4FnG24Sf/view?usp=sharing)
+![Losses for Regular Traders](https://github.com/murlis97/portfolio-viz/blob/main/images/Final%20Project%20Sketch_3.jpg "Losses for Regular Traders") - (https://drive.google.com/file/d/17kyE4Lw1pT4QkMNA4sH4rPDP4FnG24Sf/view?usp=sharing)
 
-![Unit chart depicting natural and unnatural growth of stock prices](https://drive.google.com/file/d/17kyE4Lw1pT4QkMNA4sH4rPDP4FnG24Sf/view?usp=sharing "Unit chart depicting natural and unnatural growth of stock prices")
-(https://drive.google.com/file/d/17kyE4Lw1pT4QkMNA4sH4rPDP4FnG24Sf/view?usp=sharing)
+![Unit chart depicting natural and unnatural growth of stock prices](https://github.com/murlis97/portfolio-viz/blob/main/images/Final%20Project%20Sketch_2.jpg "Unit chart depicting natural and unnatural growth of stock prices") -
+(https://drive.google.com/file/d/17s34xEJcU4UeIMdnNrZI-tcrm10lyymP/view?usp=sharing)
 
 _______
 
