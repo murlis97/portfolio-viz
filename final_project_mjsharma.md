@@ -17,11 +17,11 @@ Call to action:
 * I can do this by gaining an understanding of the conflict between Reddit investors and hedge funds to decide whether to invest in newly trending stocks. 
 
 The story told would involve the following elements(Outline): 
-> Background
-> Regular trader's perspective
-> Comparison of natural and unnatural rise in stock price
-> Effect of stock market bubbles
-> Conclusion
+> * Background
+> * Regular trader's perspective
+> * Comparison of natural and unnatural rise in stock price
+> * Effect of stock market bubbles
+> * Conclusion
 
 ## Background
 In the past couple of months, Financial News has been dominated by the Reddit forum, r/WallStreetBets. The below Google Trend shows the interest in stock market and the Reddit forum over the last couple of months. 
@@ -143,10 +143,12 @@ This effect needs to be studied in data using data from various sources like:
 ### Sketches depecting possible visualizations 
 
 ![Losses for Hedge Funds](https://drive.google.com/file/d/17s34xEJcU4UeIMdnNrZI-tcrm10lyymP/view?usp=sharing "Losses for Hedge Funds")
+(https://drive.google.com/file/d/17s34xEJcU4UeIMdnNrZI-tcrm10lyymP/view?usp=sharing)
 
-![Losses for Regular Traders](https://drive.google.com/file/d/17kyE4Lw1pT4QkMNA4sH4rPDP4FnG24Sf/view?usp=sharing "Losses for Regular Traders")
+![Losses for Regular Traders](https://drive.google.com/file/d/17kyE4Lw1pT4QkMNA4sH4rPDP4FnG24Sf/view?usp=sharing "Losses for Regular Traders") - (https://drive.google.com/file/d/17kyE4Lw1pT4QkMNA4sH4rPDP4FnG24Sf/view?usp=sharing)
 
 ![Unit chart depicting natural and unnatural growth of stock prices](https://drive.google.com/file/d/17kyE4Lw1pT4QkMNA4sH4rPDP4FnG24Sf/view?usp=sharing "Unit chart depicting natural and unnatural growth of stock prices")
+(https://drive.google.com/file/d/17kyE4Lw1pT4QkMNA4sH4rPDP4FnG24Sf/view?usp=sharing)
 
 _______
 
