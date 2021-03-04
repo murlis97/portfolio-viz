@@ -4,6 +4,8 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
+  
+  ga('create', '{{ site.google_analytics }}', 'auto');
 
   gtag('config', 'UA-190985420-1');
 </script>
