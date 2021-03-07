@@ -1,7 +1,7 @@
 
 
 ## Internet vs Wall Street - Storyboard
-The following storyboard shows the structure of the [Internet vs Wall Street Project](https://murlis97.github.io/portfolio-viz/final_project_mjsharma.html) as events of late January in the stock market are explained in through project. It highlights the major sections of the story that will be covered in the project. 
+The following storyboard shows the structure of the [Internet vs Wall Street Project](/portfolio-viz/final_project_mjsharma.html) as events of late January in the stock market are explained in through project. It highlights the major sections of the story that will be covered in the project. 
 
 <div id="adobe-dc-view" style="width: 1000px; align: center"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
@@ -14,6 +14,10 @@ The following storyboard shows the structure of the [Internet vs Wall Street Pro
 		}, {embedMode: "IN_LINE"});
 	});
 </script>
+
+________
+
+Check out the [Moodboard](/portfolio-viz/moodboard.html)
 
 ## User Research Interview
 The users are shown the above Storyboard and Moodboard, to explain the context of the project and asked the following questions: 
