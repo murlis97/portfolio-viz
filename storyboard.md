@@ -9,7 +9,7 @@ The following storyboard shows the structure of the [Internet vs Wall Street Pro
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "30ad8595192c407b957db4414f381cb8", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://murlis97.github.io/portfolio-viz/images/Storyboard.pdf"}},
+			content:{location: {url: "https://murlis97.github.io/portfolio-viz/images/Stroyboard.pdf"}},
 			metaData:{fileName: "Internet vs Wall Street - Storyboard"}
 		}, {embedMode: "IN_LINE"});
 	});
