@@ -8,7 +8,7 @@ The moodboard maps the expected outcome of the project in terms of its effect on
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "30ad8595192c407b957db4414f381cb8", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{promise: "https://github.com/murlis97/portfolio-viz/files/6097382/Internet.vs.Wall.Street.pdf"},
+			content:{location: {url: "https://github.com/murlis97/portfolio-viz/files/6097382/Internet.vs.Wall.Street.pdf"}},
 			metaData:{fileName: "Internet vs Wall St"}
 		}, {});
 	});
