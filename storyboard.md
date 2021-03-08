@@ -104,6 +104,8 @@ Growth of Alphabet(Google) share prices over the last few years is great example
 </div>
 <!-- TradingView Widget END -->
 
+_________
+
 
 ## Risks of Investment Wireframe
 
