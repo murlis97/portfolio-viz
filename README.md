@@ -30,9 +30,9 @@ _____
 ## Percentage of Higher Secondary Schools with Computers in each State in India
 
 The following Tableau Visualization is an improved version of the [visualization from Data.gov.in website](https://data.gov.in/major-indicator/percentage-schools-computers). This visualization had some clear and obvious flaws that affected the final message that was being conveyed. I could immediately imagine a different version of the chart which improved the final message and aesthetic appeal of the graph. 
-<div class='tableauPlaceholder' id='viz1613954458570' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1615241706744' style='position: relative'>
    <noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Se&#47;SecondarySchoolswithComputers&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript>
-   <object class='tableauViz' width='100%' height='100%' style='display:none;'>
+   <object class='tableauViz'  style='display:none;'>
       <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
       <param name='embed_code_version' value='3' />
       <param name='site_root' value='' />
@@ -46,10 +46,9 @@ The following Tableau Visualization is an improved version of the [visualization
       <param name='display_overlay' value='yes' />
       <param name='display_count' value='yes' />
       <param name='language' value='en' />
-      <param name='filter' value='publish=yes' />
    </object>
 </div>
-<script type='text/javascript'>                    var divElement = document.getElementById('viz1613954458570');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='650px';vizElement.style.height='700px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='650px';vizElement.style.height='700px';} else { vizElement.style.width='100%';vizElement.style.height='700px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1615241706744');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='650px';vizElement.style.height='927px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='650px';vizElement.style.height='927px';} else { vizElement.style.width='100%';vizElement.style.height='877px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 __________
 
