@@ -15,6 +15,9 @@ The following storyboard shows the structure of the [Internet vs Wall Street Pro
 	});
 </script>
 
+__________
+
+
 ## Natural vs Unnatural Stock Price Growth - Alternate Wireframe
 
 Growth of share prices of GME in the last couple of months: 
