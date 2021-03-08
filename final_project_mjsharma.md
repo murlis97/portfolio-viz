@@ -23,7 +23,7 @@ The story told would involve the following elements(Outline):
 > * Effect of stock market bubbles
 > * Conclusion
 
-## The [Storyboard](/portfolio-viz/storyboard.html) shows this project's expected effect on Traders
+## The [Storyboard](/portfolio-viz/storyboard.html) shows the planned structure of this project
 
 ## Background
 In the past couple of months, Financial News has been dominated by the Reddit forum, r/WallStreetBets. The below Google Trend shows the interest in stock market and the Reddit forum over the last couple of months. 
