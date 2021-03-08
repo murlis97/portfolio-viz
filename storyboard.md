@@ -15,6 +15,96 @@ The following storyboard shows the structure of the [Internet vs Wall Street Pro
 	});
 </script>
 
+## Natural vs Unnatural Stock Price Growth - Alternate Wireframe
+
+Growth of share prices of GME in the last couple of months: 
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/markets/indices/" rel="noopener" target="_blank"><span class="blue-text">Indices</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
+  {
+  "colorTheme": "dark",
+  "dateRange": "3M",
+  "showChart": true,
+  "locale": "en",
+  "width": "100%",
+  "height": "100%",
+  "largeChartUrl": "",
+  "isTransparent": false,
+  "showSymbolLogo": true,
+  "plotLineColorGrowing": "rgba(25, 118, 210, 1)",
+  "plotLineColorFalling": "rgba(25, 118, 210, 1)",
+  "gridLineColor": "rgba(42, 46, 57, 1)",
+  "scaleFontColor": "rgba(120, 123, 134, 1)",
+  "belowLineFillColorGrowing": "rgba(33, 150, 243, 0.12)",
+  "belowLineFillColorFalling": "rgba(33, 150, 243, 0.12)",
+  "symbolActiveColor": "rgba(33, 150, 243, 0.12)",
+  "tabs": [
+    {
+      "title": "Indices",
+      "symbols": [
+        {
+          "s": "GME"
+        },
+        {
+          "s": "NYSE:BB"
+        },
+        {
+          "s": "NYSE:AMC"
+        }
+      ],
+      "originalTitle": "Indices"
+    }
+  ]
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
+
+_____
+
+Growth of Alphabet(Google) share prices over the last few years is great example of natural growth based on performance of the business in the recent past. 
+
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/markets/indices/" rel="noopener" target="_blank"><span class="blue-text">Indices</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
+  {
+  "colorTheme": "dark",
+  "dateRange": "ALL",
+  "showChart": true,
+  "locale": "en",
+  "width": "100%",
+  "height": "100%",
+  "largeChartUrl": "",
+  "isTransparent": false,
+  "showSymbolLogo": true,
+  "plotLineColorGrowing": "rgba(25, 118, 210, 1)",
+  "plotLineColorFalling": "rgba(25, 118, 210, 1)",
+  "gridLineColor": "rgba(42, 46, 57, 1)",
+  "scaleFontColor": "rgba(120, 123, 134, 1)",
+  "belowLineFillColorGrowing": "rgba(33, 150, 243, 0.12)",
+  "belowLineFillColorFalling": "rgba(33, 150, 243, 0.12)",
+  "symbolActiveColor": "rgba(33, 150, 243, 0.12)",
+  "tabs": [
+    {
+      "title": "Indices",
+      "symbols": [
+        {
+          "s": "NASDAQ:GOOGL"
+        }
+      ],
+      "originalTitle": "Indices"
+    }
+  ]
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
+
+
 ## Risks of Investment Wireframe
 
 <iframe title="Value of $100 Invested in GME at on different days" aria-label="Interactive line chart" id="datawrapper-chart-sBeNx" src="https://datawrapper.dwcdn.net/sBeNx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="616"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
