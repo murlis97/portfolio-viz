@@ -118,6 +118,20 @@ ________
 
 ________
 
+## Research Sources
+
+- [NBC Article about Meme Investing hurting the little guy](https://www.nbcnews.com/think/opinion/gamestop-trades-meme-investing-make-stocks-ponzi-scheme-hurts-little-ncna1257680)
+- [Impact of Robinhood on the trading](https://www.vox.com/recode/2021/2/2/22261097/gamestop-wallstreetbets-short-seller-hedge-funds-losses-robinhood)
+- [Estimating the losses for Hedge Funds](https://markets.businessinsider.com/news/stocks/short-sellers-sitting-on-19-billion-of-losses-on-gamestop-data-shows-2021-1-1030020684)
+- [Estimating losses for traders](https://www.forbes.com/sites/jonathanponciano/2021/01/27/not-just-gamestop-here-are-the-meme-stocks-wallstreetbets-traders-are-pumping-up-during-this-extremely-erratic-reddit-rally/?sh=205361c05bb7)
+- [Mob mentality and its effects](https://www.nytimes.com/2021/01/12/science/crowds-mob-psychology.html)
+- [The WallStreetBets Forum](https://www.reddit.com/r/wallstreetbets/)(Graphic content and hate speech)
+- [Estimating number of stock market traders](https://www.pewresearch.org/fact-tank/2020/03/25/more-than-half-of-u-s-households-have-some-investment-in-the-stock-market/)
+
+
+_________
+
+
 ## User Research Interview
 The users are shown the above Storyboard and Moodboard, to explain the context of the project and asked the following questions: 
 > General Questions: 
