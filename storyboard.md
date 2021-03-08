@@ -155,7 +155,8 @@ ________
 ### Interview Responses
 
 The target audience for the interviews were the same as the target audience for the project i.e. Traders. People who invest in the stock market and regularly buy and sell stocks based on the market. 
-I was familiar with a couple of people already who invested in stocks and cryptocurrencies through apps like Robinhood. This included my friends Sushant Malik from R-Systems and Shaily Shah from the MISM BIDA class, as well as my roommate and stock market novice Himanshu Arora. Thanks to Rachel Bukowitz from the Telling Stories with Data class, I was able to interview Matt, a CMU MSCF Graduate who has been investing in stocks for 6-7 years.
+I was familiar with a couple of people already who invested in stocks and cryptocurrencies through apps like Robinhood. This included my friends Sushant from R-Systems and Shaily from the MISM BIDA class, as well as my roommate and stock market novice Himanshu. 
+Thanks to Rachel from the Telling Stories with Data class, I was able to interview Matt, a CMU MSCF Graduate who has been investing in stocks for 6-7 years.
 
 Here are my key findings from the interviews: 
 >- Traders understand the risks to some extent already. Experienced traders are particularly risk-averse
