@@ -171,3 +171,5 @@ _______
 ## Conclusion
 
 The project conclusion is flexible based on data analysis. The process of intereferring with the Financial Markets at such a scale could be considered democratic if it benefits the masses. It will be considered immoral if it does more harm than good. 
+
+## If you like this project, do check out my [Portfolio](/portfolio-viz/)
