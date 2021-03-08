@@ -1,5 +1,5 @@
 # Interview Responses
-The following people were shown the [Storyboard]() and asked some questions about the overall project. The full names aren't mentioned to maintain anonymity. Here's the feedback from them: 
+The following people were shown the [Storyboard](/portfolio-viz/storyboard.html) and asked some questions about the overall project. The full names aren't mentioned to maintain anonymity. Here's the feedback from them: 
 
 ## Feedback from Matt 
 I like it, it is cool.
