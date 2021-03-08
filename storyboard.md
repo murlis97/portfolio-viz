@@ -1,7 +1,7 @@
 ## Internet vs Wall Street - Storyboard
 The following storyboard shows the structure of the [Internet vs Wall Street Project](/portfolio-viz/final_project_mjsharma.html) as events of late January in the stock market are explained in through project. It highlights the major sections of the story that will be covered in the project. 
 
-<div id="adobe-dc-view" style="height: 700px; width: 650px;"></div>
+<div id="adobe-dc-view" style="height: 600px; width: 650px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
