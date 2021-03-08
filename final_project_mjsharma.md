@@ -144,13 +144,11 @@ This effect needs to be studied in data using data from various sources like:
 
 ### Sketches depecting possible visualizations 
 
-<img src="/portfolio-viz/images/Final Project Sketch_4.jpg" alt="Losses for Hedge Funds"> - 
-(https://drive.google.com/file/d/17s34xEJcU4UeIMdnNrZI-tcrm10lyymP/view?usp=sharing)
+<img src="/portfolio-viz/images/Final Project Sketch_4.jpg" alt="Losses for Hedge Funds">
 
-<img src="https://user-images.githubusercontent.com/26934923/109834202-f283a700-7c0f-11eb-9a21-75639a8df389.jpg" alt="Losses for Regular Traders"> - (https://drive.google.com/file/d/17kyE4Lw1pT4QkMNA4sH4rPDP4FnG24Sf/view?usp=sharing)
+<img src="/portfolio-viz/images/Final Project Sketch_3.jpg" alt="Losses for Regular Traders">
 
-<img src="https://user-images.githubusercontent.com/26934923/109834236-f8798800-7c0f-11eb-9420-3c1b53dd0acf.jpg" alt="Losses for Regular Traders"> -
-(https://drive.google.com/file/d/17s34xEJcU4UeIMdnNrZI-tcrm10lyymP/view?usp=sharing)
+<img src="/portfolio-viz/images/Final Project Sketch_2.jpg" alt="Losses for Regular Traders">
 
 
 ### Medium
