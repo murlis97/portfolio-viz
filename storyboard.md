@@ -1,7 +1,3 @@
-```
-classes: wide
-```
-
 ## Internet vs Wall Street - Storyboard
 The following storyboard shows the structure of the [Internet vs Wall Street Project](/portfolio-viz/final_project_mjsharma.html) as events of late January in the stock market are explained in through project. It highlights the major sections of the story that will be covered in the project. 
 
