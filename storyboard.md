@@ -157,10 +157,16 @@ I was familiar with a couple of people already who invested in stocks and crypto
 Thanks to Rachel from the Telling Stories with Data class, I was able to interview Matt, a CMU MSCF Graduate who has been investing in stocks for 6-7 years.
 
 Here are my key findings from the interviews: 
->- Traders understand the risks to some extent already. Experienced traders are particularly risk-averse
+>- Traders understand the risks to some extent already. Experienced traders are generally risk-averse
+>- Comparing the effects of the pandemic with the effects of 'Internet vs Wall Street' would be a good backdrop for the project.
 >- Traders appreciate the data story and at least have some information to gain from this
 >- Natural and unnatural growth would be more informative for novice traders
 >- The project can force traders to look at the Internet vs Wall Street conflict from in a new light and possibly even be an eye-opener
 
 
 ### [Interview Scripts](/portfolio-viz/project_interviews)
+
+### Project Updates through Storyboard and Moodboard creation
+- The biggest change in the project during the Storyboarding process was the change in the final call to action. Instead of concluding that the Internet vs Wall Street conflict is 'democratic' and 'moral' or 'immoral' the final conclusion is now focused on the traders. The project now advises the traders to stay away from the 'trending stonks' that are pushed by the r\WallStreetBets forum by explaining the risks involved in these stocks. It highlights the difference between safe long-term investments and highly risky short-term bets in these volatile stocks backed by a mob-mentality. 
+- The Natural vs Unnatural Growth comparison now fits much better in the overall data story of understanding the Trader's motivations and guiding them towards the final call to action. 
+- The analysis of risks involved now becomes the crux of the project, where the data story needs to convince a Trader very well.
