@@ -31,6 +31,61 @@ Maybe the losses would be new info for a GME investor. Maybe telling them would 
 
 _______
 
+## Feedback from Sushant
+- How long have you been investing in the stock market?
+Been 3 years 
+
+- What factors do you consider while investing in a particular stock/company?
+52 week market graph, highest and lowest points on the graph, any new developments
+
+- Would you consider yourself to be a risk-taker?
+Yes
+
+- Does the project provide you any new insights into the stock market conflict?
+
+
+- Can this data story convince you to stay away from these “Trending stonks”?
+
+
+- Will this story educate you about the risks involved with these “Trending stonks”?
+
+
+- Is there anything specific you wish to have seen in this story?
+
+
+- What would increase the impact of this story according to you?
+
+
+_______
+
+## Feedback from Shaily
+
+- How long have you been investing in the stock market?
+Been investing for a year
+
+- What factors do you consider while investing in a particular stock/company?
+I consider factors like news, stock price history, volatility
+
+- Would you consider yourself to be a risk-taker?
+I consider myself a slight risk taker
+
+- Does the project provide you any new insights into the stock market conflict?
+The project somewhat helps provide new insight into the stock market conflict regarding trending stocks and staying away from them
+
+- Can this data story convince you to stay away from these “Trending stonks”?
+I feel like GME is an extreme scenario for trending stocks so it may not convince me to stay away from trending stocks
+
+- Will this story educate you about the risks involved with these “Trending stonks”?
+Yes this story educates me on trending stocks and is good information to know for the future.
+
+- Is there anything specific you wish to have seen in this story?
+Wish i saw the data story for the Zoom stock. Something that grew due to pandemic and how it affected it.
+
+- What would increase the impact of this story according to you?
+Maybe including another trending stock on top of GME and compare to the same stocks as GME
+
+_______
+
 ## Feedback from Himanshu
 It is very informative and I look forwad to the final outcome of the project.
 
