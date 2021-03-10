@@ -74,6 +74,8 @@ __________
 ## TSWD Submissions
 ### [Final Project Submission](/final_project_mjsharma.md)
 
+### [Assignment 3 & 4 Submission](/assign3.md)
+
 ### [OECD Data Visualization - Assignment](/viz2.md)
 
 _______
