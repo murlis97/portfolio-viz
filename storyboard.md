@@ -1,3 +1,14 @@
+# Internet vs Wall Street - Project Part II
+
+The [Internet vs Wall Street project - Part I](https://murlis97.github.io/portfolio-viz/final_project_mjsharma.html) involved defining the project and creating a project outline. The final message of the project and the target audience was still ill-defined. The part II of the project involved creation of a Storyboard, a Moodboard and user interviews to understand the impact of the project and possible improvements. While creating the Storyboard the target audience for the project started to become well-defined with more and more research about stock market trading. It turns out more than half of the households in the US have some sort of an investment and the stock market. 
+
+## Project Updates through Storyboard and Moodboard creation
+- The biggest change in the project during the Storyboarding process was the change in the final call to action. Instead of concluding that the Internet vs Wall Street conflict is 'democratic' and 'moral' or 'immoral' the final conclusion is now focused on the traders. The project now advises the traders to stay away from the 'trending stonks' that are pushed by the r\WallStreetBets forum by explaining the risks involved in these stocks. It highlights the difference between safe long-term investments and highly risky short-term bets in these volatile stocks backed by a mob-mentality. 
+- The Natural vs Unnatural Growth comparison now fits much better in the overall data story of understanding the Trader's motivations and guiding them towards the final call to action. 
+- The analysis of risks involved now becomes the crux of the project, where the data story needs to convince a Trader very well.
+
+_________
+
 ## Internet vs Wall Street - Storyboard
 The following storyboard shows the structure of the [Internet vs Wall Street Project](/portfolio-viz/final_project_mjsharma.html) as events of late January in the stock market are explained in through project. It highlights the major sections of the story that will be covered in the project. 
 
@@ -110,6 +121,8 @@ _________
 
 ## Risks of Investment Wireframe
 
+From the Storyboard creation it was clear that this was easily the most crucial aspect of the project. If the risks involved in volatile stocks could be explained to a trader, half the battle would be won and the call to action will be achieved. 
+
 <iframe title="Value of $100 Invested in GME at on different days" aria-label="Interactive line chart" id="datawrapper-chart-sBeNx" src="https://datawrapper.dwcdn.net/sBeNx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="616"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
@@ -149,6 +162,7 @@ ________
 > - Is there anything specific you wish to have seen in this story? 
 > - What would increase the impact of this story according to you? 
 
+________
 
 ### Interview Responses
 
@@ -165,8 +179,3 @@ Here are my key findings from the interviews:
 
 
 ### [Interview Scripts](/portfolio-viz/project_interviews)
-
-### Project Updates through Storyboard and Moodboard creation
-- The biggest change in the project during the Storyboarding process was the change in the final call to action. Instead of concluding that the Internet vs Wall Street conflict is 'democratic' and 'moral' or 'immoral' the final conclusion is now focused on the traders. The project now advises the traders to stay away from the 'trending stonks' that are pushed by the r\WallStreetBets forum by explaining the risks involved in these stocks. It highlights the difference between safe long-term investments and highly risky short-term bets in these volatile stocks backed by a mob-mentality. 
-- The Natural vs Unnatural Growth comparison now fits much better in the overall data story of understanding the Trader's motivations and guiding them towards the final call to action. 
-- The analysis of risks involved now becomes the crux of the project, where the data story needs to convince a Trader very well.
