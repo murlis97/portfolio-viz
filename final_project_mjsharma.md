@@ -25,6 +25,14 @@ The story told would involve the following elements(Outline):
 
 _______
 
+## [Internet vs Wall St Shorthand Story](/portfolio-viz/intVwallst.html)
+
+_______
+
+## [Link to Web version](https://carnegiemellon.shorthandstories.com/internet-vs-wall-street/index.html)
+
+_______
+
 ## The [Storyboard](/portfolio-viz/storyboard.html) shows the planned structure of this project
 
 _______
