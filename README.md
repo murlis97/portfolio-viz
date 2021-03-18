@@ -7,6 +7,10 @@ _______
 
 # Cool Vizualizations
 
+This section highlights some of my work during the Telling Stories with Data Course at CMU. These visuals will be updated with new ones to showcase my work.
+
+_______
+
 ## Three versions of the same graph
 
 ### Change in preferences of Data Scientists between 2016 and 2017
