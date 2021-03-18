@@ -7,7 +7,7 @@ _______
 
 # Cool Vizualizations
 
-This section highlights some of my work during the Telling Stories with Data Course at CMU. These visuals will be updated with new ones to showcase my work.
+This section highlights some of my work during the Telling Stories with Data(TSWD) Course at CMU. These visuals will be updated with new ones to showcase my work.
 
 _______
 
