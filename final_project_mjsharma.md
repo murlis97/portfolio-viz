@@ -169,10 +169,22 @@ _______
 The project conclusion is flexible based on data analysis. The process of intereferring with the Financial Markets at such a scale could be considered democratic if it benefits the masses. It will be considered immoral if it does more harm than good. 
 
 
+________
 
-## [Link to Web version](https://carnegiemellon.shorthandstories.com/internet-vs-wall-street/index.html)
+## [Link to the Final Shorthand Story](https://carnegiemellon.shorthandstories.com/internet-vs-wall-street/index.html)
+
+________
 
 ## Here's a link to [Internet vs Wall Street Part II](/portfolio-viz/storyboard.html) which shows the planned structure of this project
+
+________
+
 ## Here's a link to [Internet vs Wall Street Part III](/portfolio-viz/inVwallst.html)
+
+________
+
 ## Here's a link to [Internet vs Wall Street Part I](/portfolio-viz/final_project_mjsharma.html)
+
+________
+
 ## [Portfolio Home Page](/portfolio-viz/)
