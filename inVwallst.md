@@ -109,4 +109,3 @@ Finally this visual was the best explainer for the events of late January in ter
 __________
 
 ## Finally here's the [Shorthand Story](https://carnegiemellon.shorthandstories.com/internet-vs-wall-street/index.html)
-It is highly recommeded to view it in a new window instead of this embeded format. 
