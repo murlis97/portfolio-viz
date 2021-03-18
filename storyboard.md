@@ -177,9 +177,18 @@ Here are my key findings from the interviews:
 >- Natural and unnatural growth would be more informative for novice traders
 >- The project can force traders to look at the Internet vs Wall Street conflict from in a new light and possibly even be an eye-opener
 
+________
 
 ### [Interview Scripts](/portfolio-viz/project_interviews)
 
+________
+
 ## Here's a link to [Internet vs Wall Street Part III](/portfolio-viz/inVwallst.html)
+
+________
+
 ## Here's a link to [Internet vs Wall Street Part I](/portfolio-viz/final_project_mjsharma.html)
+
+________
+
 ## [Portfolio Home Page](/portfolio-viz/)
