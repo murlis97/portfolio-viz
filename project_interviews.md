@@ -112,3 +112,24 @@ I would love to see more historical data about prices of stocks and how they hav
 
 - What would increase the impact of this story according to you? <br>
 Historical Analysis, More graphs, More details and risks for short term and long term investors separately could have increased the impact of this story according to me.
+
+
+________
+
+## [Link to the Final Shorthand Story](https://carnegiemellon.shorthandstories.com/internet-vs-wall-street/index.html)
+
+________
+
+## Here's a link to [Internet vs Wall Street Part II](/portfolio-viz/storyboard.html) which shows the planned structure of this project
+
+________
+
+## Here's a link to [Internet vs Wall Street Part III](/portfolio-viz/inVwallst.html)
+
+________
+
+## Here's a link to [Internet vs Wall Street Part I](/portfolio-viz/final_project_mjsharma.html)
+
+________
+
+## [Portfolio Home Page](/portfolio-viz/)
