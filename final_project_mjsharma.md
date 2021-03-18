@@ -183,8 +183,4 @@ ________
 
 ________
 
-## Here's a link to [Internet vs Wall Street Part I](/portfolio-viz/final_project_mjsharma.html)
-
-________
-
 ## [Portfolio Home Page](/portfolio-viz/)
