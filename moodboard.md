@@ -13,6 +13,8 @@ The moodboard maps the expected outcome of the project in terms of its effect on
 		}, {embedMode: "IN_LINE"});
 	});
 </script>
+
+
 ## Link back to the Storyboard [Internet vs Wall Street Part II](/portfolio-viz/storyboard.html)
 ## Here's a link to [Internet vs Wall Street Part III](/portfolio-viz/inVwallst.html)
 ## Here's a link to [Internet vs Wall Street Part I](/portfolio-viz/final_project_mjsharma.html)
