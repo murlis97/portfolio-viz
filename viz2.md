@@ -22,3 +22,7 @@ The following sunburst chart highlights variations in Debt/GDP ratio from 1995 t
 The sunburst chart is an interesting improvement over the conventional pie charts. Here the overwhelming effect of too many colours is subdued by the use of rings instead of entire circles. The chart is great example of incorporating rainbow colours while maintaing the aesthic appeal a visualization. Here it serves as a good alternative to ranking tables which seem plain and simple compared to the graphical sunburst chart. The colours used are colorblind-friendly according to [Adobe Color](https://color.adobe.com/create/color-accessibility)
 
 <iframe src='https://flo.uri.sh/visualisation/5298915/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/5298915/?utm_source=embed&utm_campaign=visualisation/5298915' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+
+
+## [Portfolio Home Page](/portfolio-viz/)
