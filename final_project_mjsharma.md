@@ -25,18 +25,6 @@ The story told would involve the following elements(Outline):
 
 _______
 
-## [Internet vs Wall St Shorthand Story](/portfolio-viz/intVwallst.html)
-
-_______
-
-## [Link to Web version](https://carnegiemellon.shorthandstories.com/internet-vs-wall-street/index.html)
-
-_______
-
-## The [Storyboard](/portfolio-viz/storyboard.html) shows the planned structure of this project
-
-_______
-
 ## Background
 In the past couple of months, Financial News has been dominated by the Reddit forum, r/WallStreetBets. The below Google Trend shows the interest in stock market and the Reddit forum over the last couple of months. 
 
@@ -180,4 +168,11 @@ _______
 
 The project conclusion is flexible based on data analysis. The process of intereferring with the Financial Markets at such a scale could be considered democratic if it benefits the masses. It will be considered immoral if it does more harm than good. 
 
-## If you like this project, do check out my [Portfolio](/portfolio-viz/)
+
+
+## [Link to Web version](https://carnegiemellon.shorthandstories.com/internet-vs-wall-street/index.html)
+
+## Here's a link to [Internet vs Wall Street Part II](/portfolio-viz/storyboard.html) which shows the planned structure of this project
+## Here's a link to [Internet vs Wall Street Part III](/portfolio-viz/inVwallst.html)
+## Here's a link to [Internet vs Wall Street Part I](/portfolio-viz/final_project_mjsharma.html)
+## [Portfolio Home Page](/portfolio-viz/)
