@@ -179,3 +179,5 @@ Here are my key findings from the interviews:
 
 
 ### [Interview Scripts](/portfolio-viz/project_interviews)
+
+## Here's a link to [Internet vs Wall Street Part III](/portfolio-viz/inVwallst.html)
