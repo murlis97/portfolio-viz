@@ -1,4 +1,4 @@
-# Internet vs Wall St - Project Outline
+# Internet vs Wall St - Project Part I
 
 ## Project Definition
 
