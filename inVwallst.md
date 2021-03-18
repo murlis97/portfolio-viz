@@ -4,7 +4,7 @@ The [Internet vs Wall Street project - Part II](https://murlis97.github.io/portf
 
 ## Project Updates during Shorthand Story creation
 - The structure of the project created in part 1, and improved in part 2, was followed while creating the Shorthand story. The visuals pictured during the Storyboarding process, were implemented in Tableau.
-- The color scheme for the project was always going to be all black, with green to signify good/profit and red for bad/loss, just like the stock market. 
+- The [color scheme](https://colors.muz.li/palette/008000/005a00/bfffbf/800000/5a0000) for the project was always going to be all black, with green to signify good/profit and red for bad/loss, just like the stock market. 
 ![Alt text](./images/muzli.svg)
 - This also played will with the Shorthand theme of black and white colours. It allowed the story to represent the murkiness of the situation in black and provide clarity in white. It was a good contrast to have throughout the narrative.
 - The conclusion of the project was tweaked from being a judgement about the whole process being 'moral' or 'immoral' or advising traders, to understanding their thought processes after informing them. In the end risk-takers will do what they want to, but the conclusion of the project became a test for convincing power of the data story. 
@@ -32,7 +32,7 @@ One drawback of Shorthand became obvious at the start of Part III of the project
       <param name='language' value='en' />
    </object>
 </div>
-<script type='text/javascript'>                    var divElement = document.getElementById('viz1616020241850');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1200px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1200px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='427px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1616020241850');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='650px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='650px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='427px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 _________
 
@@ -56,7 +56,7 @@ The visual providing insights about the stock market and the impact of the pande
       <param name='language' value='en' />
    </object>
 </div>
-<script type='text/javascript'>                    var divElement = document.getElementById('viz1616025132030');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1600px';vizElement.style.height='1627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1600px';vizElement.style.height='1627px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1616025132030');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='650px';vizElement.style.height='1627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='650px';vizElement.style.height='1627px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 ____________
 
@@ -80,7 +80,7 @@ The explanining text on Shorthand did help with this visual depicting the inflec
       <param name='language' value='en' />
    </object>
 </div>
-<script type='text/javascript'>                    var divElement = document.getElementById('viz1616025295479');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1300px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1300px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1616025295479');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='650px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='650px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 __________
 
@@ -104,12 +104,9 @@ Finally this visual was the best explainer for the events of late January in ter
       <param name='language' value='en' />
    </object>
 </div>
-<script type='text/javascript'>                    var divElement = document.getElementById('viz1616025365084');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1300px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1300px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1616025365084');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='650px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='650px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 __________
 
 ## Finally here's the [Shorthand Story](https://carnegiemellon.shorthandstories.com/internet-vs-wall-street/index.html)
 It is highly recommeded to view it in a new window instead of this embeded format. 
-
-<script src="https://embed.shorthand.com/embed_10.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/internet-vs-wall-street/"><h1>Internet vs Wall Street</h1><p>TRADER'S PERSPECTIVE</p></div>
